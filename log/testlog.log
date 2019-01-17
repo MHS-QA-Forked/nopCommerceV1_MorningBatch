@@ -1,0 +1,170 @@
+2019-01-11 06:45:04,868 - ecommerce -INFO - open URL
+2019-01-11 06:45:05,186 - ecommerce -INFO - Entered username
+2019-01-11 06:45:05,411 - ecommerce -INFO - Entered password
+2019-01-11 06:45:11,270 - ecommerce -INFO - clciked on login
+2019-01-11 06:45:13,121 - ecommerce -INFO - Login test passed
+2019-01-11 06:45:13,122 - ecommerce -INFO - Logout clicked
+2019-01-11 07:24:08,314 - ecommerce -INFO - open URL
+2019-01-11 07:24:08,669 - ecommerce -INFO - Entered username
+2019-01-11 07:24:08,842 - ecommerce -INFO - Entered password
+2019-01-11 07:24:12,948 - ecommerce -INFO - clciked on login
+2019-01-11 07:24:14,896 - ecommerce -INFO - Login test passed
+2019-01-11 07:24:14,896 - ecommerce -INFO - Logout clicked
+2019-01-11 07:29:59,486 - ecommerce -INFO - open URL
+2019-01-11 07:29:59,827 - ecommerce -INFO - Entered username
+2019-01-11 07:29:59,985 - ecommerce -INFO - Entered password
+2019-01-11 07:30:04,736 - ecommerce -INFO - clciked on login
+2019-01-11 07:30:06,773 - ecommerce -INFO - Login test passed
+2019-01-11 07:30:06,774 - ecommerce -INFO - Logout clicked
+2019-01-11 07:31:06,370 - ecommerce -INFO - open URL
+2019-01-11 07:31:06,556 - ecommerce -INFO - Entered username
+2019-01-11 07:31:06,641 - ecommerce -INFO - Entered password
+2019-01-11 07:31:12,884 - ecommerce -INFO - clciked on login
+2019-01-11 07:31:14,756 - ecommerce -INFO - Login test passed
+2019-01-11 07:31:14,757 - ecommerce -INFO - Logout clicked
+2019-01-11 07:31:41,918 - ecommerce -INFO - open URL
+2019-01-11 07:31:43,675 - ecommerce -INFO - Entered username
+2019-01-11 07:31:44,335 - ecommerce -INFO - Entered password
+2019-01-11 07:31:50,456 - ecommerce -INFO - clciked on login
+2019-01-11 07:31:53,525 - ecommerce -INFO - Login test passed
+2019-01-11 07:31:53,525 - ecommerce -INFO - Logout clicked
+2019-01-11 07:50:42,099 - ecommerce -INFO - open URL
+2019-01-11 07:50:42,397 - ecommerce -INFO - Entered username
+2019-01-11 07:50:42,662 - ecommerce -INFO - Entered password
+2019-01-11 07:50:58,121 - ecommerce -INFO - clciked on login
+2019-01-11 07:51:00,322 - ecommerce -INFO - Login test passed
+2019-01-11 07:51:00,323 - ecommerce -INFO - Logout clicked
+2019-01-11 07:53:08,387 - ecommerce -INFO - open URL
+2019-01-11 07:53:08,718 - ecommerce -INFO - Entered username
+2019-01-11 07:53:08,879 - ecommerce -INFO - Entered password
+2019-01-11 07:53:13,611 - ecommerce -INFO - clciked on login
+2019-01-11 07:53:14,297 - ecommerce -ERROR - Login test failed
+2019-01-11 07:53:14,297 - ecommerce -INFO - Logout clicked
+2019-01-15 07:00:04,554 - ecommerce -INFO - open URL
+2019-01-15 07:00:04,876 - ecommerce -INFO - Entered username
+2019-01-15 07:00:05,010 - ecommerce -INFO - Entered password
+2019-01-15 07:00:14,131 - ecommerce -INFO - clciked on login
+2019-01-15 07:00:25,404 - ecommerce -INFO - User provided
+2019-01-15 07:00:25,553 - ecommerce -INFO - Password provided
+2019-01-15 07:00:26,865 - ecommerce -INFO - Login in Clicked
+2019-01-15 07:00:28,877 - ecommerce -INFO - Login Failed
+2019-01-15 07:00:31,133 - ecommerce -INFO - User provided
+2019-01-15 07:00:31,299 - ecommerce -INFO - Password provided
+2019-01-15 07:00:33,221 - ecommerce -INFO - Login in Clicked
+2019-01-15 07:00:35,235 - ecommerce -INFO - Login Failed
+2019-01-15 07:00:36,912 - ecommerce -INFO - User provided
+2019-01-15 07:00:37,035 - ecommerce -INFO - Password provided
+2019-01-15 07:00:37,759 - ecommerce -INFO - Login in Clicked
+2019-01-15 07:00:39,774 - ecommerce -INFO - Login Failed
+2019-01-15 07:02:48,129 - ecommerce -INFO - User provided
+2019-01-15 07:02:48,336 - ecommerce -INFO - Password provided
+2019-01-15 07:02:53,549 - ecommerce -INFO - Login in Clicked
+2019-01-15 07:02:59,554 - ecommerce -INFO - User provided
+2019-01-15 07:02:59,662 - ecommerce -INFO - Password provided
+2019-01-15 07:03:00,528 - ecommerce -INFO - Login in Clicked
+2019-01-15 07:03:02,540 - ecommerce -INFO - Login Failed
+2019-01-15 07:03:04,323 - ecommerce -INFO - User provided
+2019-01-15 07:03:04,454 - ecommerce -INFO - Password provided
+2019-01-15 07:03:05,169 - ecommerce -INFO - Login in Clicked
+2019-01-15 07:03:07,182 - ecommerce -INFO - Login Failed
+2019-01-15 07:03:08,878 - ecommerce -INFO - User provided
+2019-01-15 07:03:08,979 - ecommerce -INFO - Password provided
+2019-01-15 07:03:09,692 - ecommerce -INFO - Login in Clicked
+2019-01-15 07:03:11,704 - ecommerce -INFO - Login Failed
+2019-01-15 07:05:08,672 - ecommerce -INFO - open URL
+2019-01-15 07:05:08,961 - ecommerce -INFO - Entered username
+2019-01-15 07:05:09,154 - ecommerce -INFO - Entered password
+2019-01-15 07:05:14,234 - ecommerce -INFO - clciked on login
+2019-01-15 07:05:19,886 - ecommerce -INFO - Login test passed
+2019-01-15 07:05:19,887 - ecommerce -INFO - Logout clicked
+2019-01-15 07:05:28,305 - ecommerce -INFO - User provided
+2019-01-15 07:05:28,444 - ecommerce -INFO - Password provided
+2019-01-15 07:05:32,333 - ecommerce -INFO - Login in Clicked
+2019-01-15 07:05:38,699 - ecommerce -INFO - User provided
+2019-01-15 07:05:38,837 - ecommerce -INFO - Password provided
+2019-01-15 07:05:39,583 - ecommerce -INFO - Login in Clicked
+2019-01-15 07:05:41,596 - ecommerce -INFO - Login Failed
+2019-01-15 07:05:43,335 - ecommerce -INFO - User provided
+2019-01-15 07:05:43,458 - ecommerce -INFO - Password provided
+2019-01-15 07:05:44,207 - ecommerce -INFO - Login in Clicked
+2019-01-15 07:05:46,223 - ecommerce -INFO - Login Failed
+2019-01-15 07:05:47,928 - ecommerce -INFO - User provided
+2019-01-15 07:05:48,021 - ecommerce -INFO - Password provided
+2019-01-15 07:05:48,743 - ecommerce -INFO - Login in Clicked
+2019-01-15 07:05:50,755 - ecommerce -INFO - Login Failed
+2019-01-15 08:05:44,432 - ecommerce -INFO - User name is provided
+2019-01-15 08:05:44,602 - ecommerce -INFO - password is provided
+2019-01-15 08:05:49,213 - ecommerce -INFO - providing customer details....
+2019-01-15 08:06:05,866 - ecommerce -INFO - validation started....
+2019-01-15 08:06:06,393 - ecommerce -INFO - test case passed....
+2019-01-15 08:06:54,639 - ecommerce -INFO - User name is provided
+2019-01-15 08:06:54,797 - ecommerce -INFO - password is provided
+2019-01-15 08:06:59,674 - ecommerce -INFO - providing customer details....
+2019-01-15 08:07:15,576 - ecommerce -INFO - validation started....
+2019-01-15 08:07:16,036 - ecommerce -INFO - test case passed....
+2019-01-16 07:04:36,299 - ecommerce -INFO - open URL
+2019-01-16 07:04:36,636 - ecommerce -INFO - Entered username
+2019-01-16 07:04:36,769 - ecommerce -INFO - Entered password
+2019-01-16 07:04:49,753 - ecommerce -INFO - clciked on login
+2019-01-16 07:04:55,186 - ecommerce -INFO - Login test passed
+2019-01-16 07:04:55,187 - ecommerce -INFO - Logout clicked
+2019-01-16 07:05:02,357 - ecommerce -INFO - User name is provided
+2019-01-16 07:05:02,544 - ecommerce -INFO - password is provided
+2019-01-16 07:05:07,097 - ecommerce -INFO - providing customer details....
+2019-01-16 07:05:27,324 - ecommerce -INFO - validation started....
+2019-01-16 07:05:27,787 - ecommerce -INFO - test case passed....
+2019-01-16 07:16:11,040 - ecommerce -INFO - open URL
+2019-01-16 07:16:11,360 - ecommerce -INFO - Entered username
+2019-01-16 07:16:11,550 - ecommerce -INFO - Entered password
+2019-01-16 07:16:16,127 - ecommerce -INFO - clciked on login
+2019-01-16 07:16:21,454 - ecommerce -INFO - Login test passed
+2019-01-16 07:16:21,455 - ecommerce -INFO - Logout clicked
+2019-01-16 07:16:28,276 - ecommerce -INFO - User name is provided
+2019-01-16 07:16:28,422 - ecommerce -INFO - password is provided
+2019-01-16 07:16:33,062 - ecommerce -INFO - providing customer details....
+2019-01-16 07:16:48,916 - ecommerce -INFO - validation started....
+2019-01-16 07:16:49,417 - ecommerce -INFO - test case passed....
+2019-01-16 07:21:14,306 - ecommerce -INFO - open URL
+2019-01-16 07:21:14,669 - ecommerce -INFO - Entered username
+2019-01-16 07:21:14,805 - ecommerce -INFO - Entered password
+2019-01-16 07:21:19,610 - ecommerce -INFO - clciked on login
+2019-01-16 07:21:24,791 - ecommerce -INFO - Login test passed
+2019-01-16 07:21:24,791 - ecommerce -INFO - Logout clicked
+2019-01-16 07:21:31,900 - ecommerce -INFO - User name is provided
+2019-01-16 07:21:32,068 - ecommerce -INFO - password is provided
+2019-01-16 07:21:36,891 - ecommerce -INFO - providing customer details....
+2019-01-16 07:21:53,190 - ecommerce -INFO - validation started....
+2019-01-16 07:21:53,668 - ecommerce -INFO - test case passed....
+2019-01-16 07:45:09,453 - ecommerce -INFO - open URL
+2019-01-16 07:45:09,754 - ecommerce -INFO - Entered username
+2019-01-16 07:45:09,873 - ecommerce -INFO - Entered password
+2019-01-16 07:45:14,711 - ecommerce -INFO - clciked on login
+2019-01-16 07:45:20,276 - ecommerce -INFO - Login test passed
+2019-01-16 07:45:20,277 - ecommerce -INFO - Logout clicked
+2019-01-16 07:45:26,841 - ecommerce -INFO - User name is provided
+2019-01-16 07:45:26,952 - ecommerce -INFO - password is provided
+2019-01-16 07:45:31,138 - ecommerce -INFO - providing customer details....
+2019-01-16 07:45:50,249 - ecommerce -INFO - validation started....
+2019-01-16 07:45:50,584 - ecommerce -INFO - test case passed....
+2019-01-16 07:46:50,653 - ecommerce -INFO - open URL
+2019-01-16 07:46:50,893 - ecommerce -INFO - Entered username
+2019-01-16 07:46:51,058 - ecommerce -INFO - Entered password
+2019-01-16 07:46:56,028 - ecommerce -INFO - clciked on login
+2019-01-16 07:47:01,211 - ecommerce -INFO - Login test passed
+2019-01-16 07:47:01,212 - ecommerce -INFO - Logout clicked
+2019-01-16 07:47:07,859 - ecommerce -INFO - User name is provided
+2019-01-16 07:47:07,984 - ecommerce -INFO - password is provided
+2019-01-16 07:47:12,650 - ecommerce -INFO - providing customer details....
+2019-01-16 07:47:26,675 - ecommerce -INFO - validation started....
+2019-01-16 07:47:27,013 - ecommerce -INFO - test case passed....
+2019-01-16 07:54:17,907 - ecommerce -INFO - open URL
+2019-01-16 07:54:18,405 - ecommerce -INFO - Entered username
+2019-01-16 07:54:18,607 - ecommerce -INFO - Entered password
+2019-01-16 07:54:28,072 - ecommerce -INFO - clciked on login
+2019-01-16 07:54:33,312 - ecommerce -INFO - Login test passed
+2019-01-16 07:54:33,313 - ecommerce -INFO - Logout clicked
+2019-01-16 07:54:39,943 - ecommerce -INFO - User name is provided
+2019-01-16 07:54:40,069 - ecommerce -INFO - password is provided
+2019-01-16 07:54:44,618 - ecommerce -INFO - providing customer details....
+2019-01-16 07:55:02,048 - ecommerce -INFO - validation started....
+2019-01-16 07:55:02,462 - ecommerce -INFO - test case passed....
